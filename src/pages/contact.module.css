@@ -1,0 +1,182 @@
+.discount{
+    color: #500472;
+    padding: 10px;
+    text-align: center;
+    font-size: 25px;
+}
+
+.contactpics{
+    position: relative;
+    z-index: 1;
+    width: 50%;
+}
+
+.cont{
+    height: 600px;
+    width: 100%;
+    opacity: 0.4;
+}
+
+.contxt{
+    position: absolute;
+    z-index: 2;
+    top: 50%;
+    color: white;
+    font-size: 25px;
+    padding-left: 30px;
+}
+
+.Conth{
+    position: relative;
+    z-index: 1;
+}
+
+.c{
+    padding-bottom: 20px;
+}
+.container{
+    display: flex;
+}
+
+.contheading{
+    color: #500472;
+    padding-top: 70px;
+    text-align: center;
+    padding-bottom: 50px;
+}
+.contp{
+    font-size: 20px;
+    text-align: left;
+    margin-left: 70px;
+}
+
+.in{
+    flex-direction: column;
+}
+.icn{
+    border: none;
+    background: none;
+    font-size: 30px;
+    padding-left: 70px;
+}
+.con{
+    border: 1px solid #500472;
+    border-radius: 20px;
+   margin-right: 200px;
+   padding-top: 50px;
+   box-shadow: 10px 10px 5px #a598ac;
+   background-color: #a598ac;
+}
+
+.formheading{
+    padding-left: 20px;
+    padding-right: 10px;
+}
+
+.contform{
+    padding-bottom: 30px;
+}
+
+.controw{
+    justify-content: center;
+    padding: 40px;
+}
+
+.contgroup{
+    padding-bottom: 30px;
+}
+
+.contS1{
+    height: 100px;
+    color: #a598ac;
+    border-radius: 5px;
+}
+.contS{
+    color: #a598ac;
+}
+
+.abtbtn{
+    padding-top: 80px;
+}
+
+.enq{
+    margin-left: 500px;
+    padding-bottom: 30px;
+    
+}
+.enquires{
+    font-size: 25px;
+    padding-right: 100px;
+    color: #500472;
+    margin-left: 50px;
+    padding-top: 30px;
+
+}
+
+.enqicon{
+    margin: 30px;
+    
+    
+}
+.icons{
+    width: 30px;
+    padding-bottom: 10px;
+    margin-right: 50px;
+    animation: moveIcon 2s infinite;
+    
+}
+
+@media (min-width:280) and (max-width:768){
+    .con{
+        border: 1px solid #500472;
+        border-radius: 20px;
+       margin-right: 200px;
+       padding-top: 50px;
+       box-shadow: 10px 10px 5px #a598ac;
+       background-color: #000000;
+    }
+
+    .enq{
+        margin-left: 500px;
+        padding-bottom: 30px;
+        
+    }
+    .enquires{
+        font-size: 25px;
+        padding-right: 100px;
+        color: #500472;
+        margin-left: 50px;
+        padding-top: 30px;
+    
+    }
+    
+    .enqicon{
+        margin: 30px;
+        
+        
+    }
+    .icons{
+        width: 30px;
+        padding-bottom: 10px;
+        margin-right: 50px;
+        animation: moveIcon 2s infinite;
+        
+    }
+}
+
+@media (width : 375px){
+   
+
+}
+
+@media (max-width : 576px){
+    .con{
+        border: 1px solid #500472;
+        border-radius: 20px;
+       margin-right: 200px;
+       padding-top: 50px;
+       box-shadow: 10px 10px 5px #a598ac;
+       background-color: #000000;
+    }
+
+}

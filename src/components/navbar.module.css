@@ -1,0 +1,35 @@
+.navbar{
+    background-color: #500472;
+    width: 100%;
+    position: sticky;
+    
+}
+
+
+.logo{
+    width: 100px;
+    margin-right: 500px;
+    height: 50px;
+    
+}
+
+.ul{
+    display: flex;
+    color: #ffffff;
+    font-size: 22px;
+    gap: 40px;
+    
+}
+
+.li{
+    list-style: none;
+   color: #fff; 
+   text-decoration: none; 
+}
+
+@media   (min-width: 280px) and (max-width: 768px){
+
+    .navbar{
+        background-color: rgb(191, 194, 194);
+    }
+}

@@ -1,0 +1,80 @@
+.discount{
+    color: #500472;
+    padding: 10px;
+    text-align: center;
+    font-size: 25px;
+}
+
+
+
+.container{
+    display: flex;
+}
+
+
+.heropic{
+    height: 600px;
+    width: 100%;
+    opacity: 0.6;
+}
+
+.hero{
+    position: relative;
+    z-index: 1;
+}
+
+.txt{
+    position: absolute;
+    z-index: 2;
+    top: 50%;
+    color: white;
+    font-size: 25px;
+    padding-left: 30px;
+}
+
+
+.so{
+    padding-top: 70px;
+    padding-bottom: 50px;
+}
+
+.offer{
+    color: #500472;
+    text-align: center;
+    text-shadow: 5px;
+    font-size: 50px;
+    padding-top: 50px;
+}
+
+
+.pt{
+    color: #500472;
+}
+
+.paint{
+    display: flex;
+    gap: 10;
+    text-align: center ;
+   margin-left: 50px;
+   margin-right: 50px;
+   padding-top: 60px;
+}
+
+.p{
+    padding-top: 40px;
+}
+
+.pp{
+    text-align: justify;
+   
+    padding-bottom: 20px;
+}
+
+.pi{
+    width: 50rem;
+    padding: 20px;
+}
+
+.btns{
+    margin-right: 300px;
+}

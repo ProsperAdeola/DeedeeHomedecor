@@ -1,0 +1,11 @@
+.btn{ 
+    color: #ffff;
+    border-radius: 10px;
+    background-color: #500472;
+    text-align: center;
+    text-size-adjust: 100px;
+}
+
+@media   (min-width: 280px) and (max-width: 768px){
+    
+}
