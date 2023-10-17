@@ -1,25 +1,12 @@
 import style from "./loader.module.css";
-import React, { useState, useEffect } from 'react';
-import ClipLoader from 'react-spinners/ClipLoader';
+import Spinner from 'react-bootstrap/Spinner';
 
-const Loader = () => {
-  const [loadingInProgress, setLoading] = useState(false);
-
-  // ...
-
+function Spin() {
   return (
-    <div className={style.container}>
-      {loadingInProgress ? (
-        <div className="loader-container">
-          <ClipLoader color={'#fff'} size={150} />
-        </div>
-      ) : (
-        <div className="main-content">
-          {/* ... */}
-        </div>
-      )}
-    </div>
-  );
-};
+    <Spinner className={style.spinner} animation="border" role="status">
+      <span className="visually-hidden">Loading...</span>
+    </Spinner>
+  )
+}
 
-export default Loader;
+export default Spin;

@@ -83,9 +83,9 @@ const Home = () => {
       <div className={style.conts}>
         <h1 className={style.ts}>Testimonals</h1>
 
-        <Carousel>
+        <Carousel className={style.tsp} indicators={false}>
           <Carousel.Item className={style.tspbox}>
-            <p className={style.tsp}>
+            <p className={style.tsptext}>
               I would recommend deedee home decor for anyone trying to beautify
               their home. They saved me from stressing myself to think of the
               style to decide your home!
@@ -109,7 +109,7 @@ const Home = () => {
             </p>
           </Carousel.Item>
           <Carousel.Item className={style.tspbox}>
-            <p className={style.tsp}>
+            <p className={style.tsptext}>
               If you are looking to give your home a nice touch, and you don't
               have deedee home decor as your go to. I highly recommend that you
               check them out.
@@ -133,7 +133,7 @@ const Home = () => {
             </p>
           </Carousel.Item>
           <Carousel.Item className={style.tspbox}>
-            <p className={style.tsp}>
+            <p className={style.tsptext}>
               I love deedee home decor! This is an amazing service and they
               saved me from going through the stress of decorating my home. I
               plan to use them for a long time to come.
@@ -156,8 +156,8 @@ const Home = () => {
               </div>
             </p>
           </Carousel.Item>
-          <Carousel.Item className={style.tspbox}>
-            <p className={style.tsp}>
+          <Carousel.Item  className={style.tspbox}>
+            <p className={style.tsptext}>
               With deedee home decor, communication between us is far more
               efficient. A game changer.
               <div className={style.icn2}>
@@ -180,7 +180,7 @@ const Home = () => {
             </p>
           </Carousel.Item>
           <Carousel.Item>
-            <p className={style.tsp}>
+            <p className={style.tsptext}>
               Would definitely recommend deedee home decor and will definitely
               refer them to my friends.
               <div className={style.icn2}>
@@ -203,7 +203,7 @@ const Home = () => {
             </p>
           </Carousel.Item>
           <Carousel.Item className={style.tspbox}>
-            <p className={style.tsp}>
+            <p className={style.tsptext}>
               We are always on the same page. I'm not very organized naturally,
               so deedee home decor company is a godsent!
               <div className={style.icn2}>

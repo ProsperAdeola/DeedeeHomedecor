@@ -1,20 +1,9 @@
-.container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-  }
+.spinner {
+  size: 100%;
+   color: #500472;
+   position: fixed;
+  top: 50%;
+  left: 50%;
   
-  .loader-container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-  }
-  
-  .main-content {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-  }
+
+}
