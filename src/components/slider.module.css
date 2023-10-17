@@ -70,14 +70,14 @@
     }
     
     .ccp{
-        width: 100%;
-        font-size: 25px;
+       
+        font-size: 20px;
         /* margin-right: 100px ; */
        text-align: center;
     }
     
     .cp{
-        width: 100%;
+        
         text-align: center;
         margin-left: 10px;
         font-size: 15px;
