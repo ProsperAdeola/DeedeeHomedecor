@@ -55,9 +55,6 @@
         font-size: 15px;
         gap: 40px;  
     }
-    .ul:hover{
-        -webkit-text-stroke: 2px black;
-    }
     
     .li{
         list-style: none;
