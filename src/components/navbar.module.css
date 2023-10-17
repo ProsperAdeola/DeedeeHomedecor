@@ -59,16 +59,17 @@
     }
     .ul:hover{
         background-color: white;
+        -webkit-text-stroke: 2px white;
     }
     
     .li{
         list-style: none;
        color: #fff; 
        text-decoration: none; 
-       display: flex;
     }
     
     .li:hover{
         background-color: white;
+        -webkit-text-stroke: 2px white;
     }
 }
