@@ -128,16 +128,13 @@
     }
     
     .ccp{
-       
         font-size: 20px;
        text-align: left;
     }
 
     .cp{
-        
         text-align: left;
         font-size: 15px;
-        display: flex;
     }
     .so{
         padding-top: 70px;

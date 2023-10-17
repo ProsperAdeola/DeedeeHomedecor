@@ -25,7 +25,7 @@ const Service = (name) => {
             things to keep in mind while decorating is that your home is about
             you.<br></br> You are the one that needs to be comfortable there. You are the
             one that needs to look at the color of the walls and stare at the
-            painting above the mantle every day
+            painting above the mantle every day.
           </p>
         </div>
       </div>
