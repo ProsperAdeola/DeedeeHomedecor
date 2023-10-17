@@ -130,12 +130,12 @@
     .ccp{
        
         font-size: 20px;
-       text-align: center;
+       text-align: left;
     }
 
     .cp{
         
-        text-align: center;
+        text-align: left;
         margin-left: 10px;
         font-size: 15px;
         align-items: center;
