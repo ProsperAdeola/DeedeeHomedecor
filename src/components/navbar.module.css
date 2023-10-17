@@ -36,24 +36,21 @@
     .navbar{
         background-color: #500472;
         width: 100%;
-        position: sticky;
-        
+        position: sticky; 
     }
     
     
     .logo{
         width: 100px;
         margin-right: 500px;
-        height: 50px;
-        
+        height: 50px;  
     }
     
     .ul{
         display: flex;
         color: #ffffff;
         font-size: 22px;
-        gap: 40px;
-        
+        gap: 40px;  
     }
     
     .li{
@@ -61,22 +58,8 @@
        color: #fff; 
        text-decoration: none; 
     }
-
-    .dropdown {
-        position: relative;
-        display: inline-block;
+    
+    .li:hover{
+        background-color: white;
     }
-
-    .dropdown:hover .dropdown-content {
-        display: block;
-    }
-
-    .dropdowncontent {
-        display: none;
-        position: absolute;
-        background-color: #f9f9f9;
-        min-width: 160px;
-        box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-        z-index: 1;
-      }
 }
