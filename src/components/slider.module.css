@@ -44,7 +44,7 @@
 
 @media (260px <= width <= 1080px){
     .image{
-        height: 400px;
+        height: 500px;
         width: 100%;
         position: relative;
         z-index: 1;
@@ -65,9 +65,7 @@
         width: 80%;
         align-items: center;
         justify-content: center;
-        top: 2%;
-        
-        
+        top: 2%;  
     }
     
     .ccp{
