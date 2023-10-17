@@ -19,7 +19,14 @@ const Service = (name) => {
         </div>
         <div className={style.txt}>
           <h1>Your home is your safe haven</h1>
-          <p>...add elements that will calm your space and soothe your soul</p>
+          <p>
+            ...add elements that will calm your space and soothe your soul
+            <br></br> One of the most important
+            things to keep in mind while decorating is that your home is about
+            you. You are the one that needs to be comfortable there. You are the
+            one that needs to look at the color of the walls and stare at the
+            painting above the mantle every day
+          </p>
         </div>
       </div>
 
@@ -66,7 +73,7 @@ const Service = (name) => {
             </p>
             <div className={style.btns}>
               <Link to="/contact">
-                <Button1 name="Learn more..."/>
+                <Button1 name="Learn more..." />
               </Link>
             </div>
           </div>
@@ -78,8 +85,8 @@ const Service = (name) => {
             <p className={style.pp}>
               Your home is your safe space, the asthetics brings a kind of
               fulliment and joy.<br></br>We will bring our home decor ideas to
-              life and to your taste.<br></br>Click on the
-              utton below to talk to our customer care representative.
+              life and to your taste.<br></br>Click on the utton below to talk
+              to our customer care representative.
             </p>
             <div className={style.btns}>
               <Link to="/contact">

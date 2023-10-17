@@ -3,22 +3,41 @@
 }
 
 .image{
-    height: 700px;
+    height: 600px;
     width: 100%;
     position: relative;
     z-index: 1;
-    background: black;
+    background-color: black;
+    filter: brightness(30%);
 }
 
-.carousel-background{
-    background: black;
-}
-
-.carouselcaption {
-    position: absolute;
+.carouselitem {
+    position: relative;
     z-index: 1;
-    display:table;
-    width:100%;
-    height:100%;
-    background: black;
-  }
+    
+} 
+
+.carouselcap{
+    z-index: 1;
+    position: relative;
+    top: 30%;
+    color: white;
+    width: 80%;
+}
+
+.ccp{
+    width: 100%;
+    font-size: 35px;
+    margin-right: 100px ;
+}
+
+.cp{
+    width: 100%;
+    text-align: center;
+    margin-left: 10px;
+    font-size: 15px;
+    align-items: center;
+    align-self: center;
+    align-content: center;
+}
+

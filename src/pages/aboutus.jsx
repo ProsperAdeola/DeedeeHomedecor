@@ -20,7 +20,11 @@ const Aboutus = () => {
         <div className={style.aboutustext}>
           <h1>Decorate your Home</h1>
           <p>
-            It gives the illusion that your life is more intresting than it really is.
+            It gives the illusion that your life is more intresting than it
+            really is.<br></br>It can be very tempting to decorate your home
+            based on what you think will be appealing to others. How often do we
+            choose colors and styles and artwork with someone else’s voice in
+            the back of our mind, drowning out our own preferences?
           </p>
         </div>
       </div>
@@ -31,14 +35,16 @@ const Aboutus = () => {
           <p className={style.aboutusparagraph}>
             DeeDee Home Decor is a company where we help our clients bring
             beauty to their homes using difgfernt items, ranging from furniture,
-            artwork and other accessories.<br></br> We love sharing our passion for decorating, it allows us to find
-            unique decorating items, put it together and bring it your space to
-            make your home homely.<br></br> We help you curate a selection of home decoration to help you crate
+            artwork and other accessories.<br></br> We love sharing our passion
+            for decorating, it allows us to find unique decorating items, put it
+            together and bring it your space to make your home homely.<br></br>{" "}
+            We help you curate a selection of home decoration to help you crate
             spaces in your home that are unique, stylish, and personalized to
             you. we believe there is no rules when it come to decorating your
             home. Our team will help you bring our spaces to life with our
-            services.<br></br>Our experienced team come up with designs that matches your idea you
-            and allow you to pick the one that best soothe you
+            services.<br></br>Our experienced team come up with designs that
+            matches your idea you and allow you to pick the one that best soothe
+            you
           </p>
         </div>
         <div className={style.break}>
@@ -51,47 +57,59 @@ const Aboutus = () => {
             </h1>
 
             <div className={style.staff}>
-            <div >
-              <img className={style.staffimage} src="./images/a.jpg" alt="" />
-              <p className={style.stafftext}>Creative Director</p>
-            </div>
-            <div >
-              <img className={style.staffimage} src="./images/b.jpg" alt="" />
-              <p className={style.stafftext}>Lead Designer</p>
-            </div>
+              <div>
+                <img className={style.staffimage} src="./images/a.jpg" alt="" />
+                <p className={style.stafftext}>Creative Director</p>
+              </div>
+              <div>
+                <img className={style.staffimage} src="./images/b.jpg" alt="" />
+                <p className={style.stafftext}>Lead Designer</p>
+              </div>
             </div>
 
             <div className={style.staff}>
-            <div >
-              <img className={style.staffimage} src="./images/c.jpg" alt="" />
-              <p className={style.stafftext}>Designer</p>
+              <div>
+                <img className={style.staffimage} src="./images/c.jpg" alt="" />
+                <p className={style.stafftext}>Designer</p>
+              </div>
+              <div>
+                <img className={style.staffimage} src="./images/d.jpg" alt="" />
+                <p className={style.stafftext}>Project Manager</p>
+              </div>
             </div>
-            <div >
-              <img className={style.staffimage} src="./images/d.jpg" alt="" />
-              <p className={style.stafftext}>Project Manager</p>
-            </div>
-            </div>
-            
+
             <div className={style.staff}>
-            <div >
-              <img className={style.staffimage1} src="./images/e.jpg" alt="" />
-              <p className={style.stafftext}>Design Coordinator</p>
+              <div>
+                <img
+                  className={style.staffimage1}
+                  src="./images/e.jpg"
+                  alt=""
+                />
+                <p className={style.stafftext}>Design Coordinator</p>
+              </div>
+              <div>
+                <img
+                  className={style.staffimage1}
+                  src="./images/h.jpg"
+                  alt=""
+                />
+                <p className={style.stafftext}>
+                  Customer Service Representative
+                </p>
+              </div>
+              <div>
+                <img
+                  className={style.staffimage1}
+                  src="./images/g.jpg"
+                  alt=""
+                />
+                <p className={style.stafftext}>Administrative Assistants</p>
+              </div>
             </div>
-            <div >
-              <img className={style.staffimage1} src="./images/h.jpg" alt="" />
-              <p className={style.stafftext}>Customer Service Representative</p>
-            </div>
-            <div >
-              <img className={style.staffimage1} src="./images/g.jpg" alt="" />
-              <p className={style.stafftext}>Adminstrative Assistants</p>
-            </div>
-            </div>
-           
-           
           </div>
         </div>
       </div>
-      <Footer/>
+      <Footer />
     </div>
   );
 };
