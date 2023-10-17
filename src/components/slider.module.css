@@ -44,7 +44,7 @@
 
 @media (260px <= width <= 1080px){
     .image{
-        height: 500px;
+        height: 400px;
         width: 100%;
         position: relative;
         z-index: 1;
