@@ -41,15 +41,15 @@
     
     
     .logo{
-        width: 100px;
-        margin-right: 500px;
+        width: 50px;
+        margin-right: 300px;
         height: 50px;  
     }
     
     .ul{
         display: flex;
         color: #ffffff;
-        font-size: 22px;
+        font-size: 20px;
         gap: 40px;  
     }
     
