@@ -23,10 +23,10 @@
 }
 
 .txt{
-    position: relative;
-    z-index: 1;
+    position: absolute;
+    z-index: 2;
     top: 50%;
-    color: white;
+    color: black;
     font-size: 15px;
     padding-left: 30px;
 }
@@ -44,7 +44,6 @@
     font-size: 15px;
     align-items: center;
     justify-content: center;
-    display: flex;
 }
 
 .so{
