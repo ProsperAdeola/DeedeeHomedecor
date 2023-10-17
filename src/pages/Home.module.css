@@ -196,7 +196,6 @@
     }
     .tspbox{
        align-items: center;
-       
     }
     
     .tsp{
@@ -205,8 +204,7 @@
        box-shadow: 10px 10px 5px #c5b8cc;
        background-color: #c5b8cc;
        font-size: 15px;
-       margin-right: 50px;
-       margin-left: 150px;
+       
     }
     
     .tsptext{
