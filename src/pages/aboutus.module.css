@@ -139,6 +139,7 @@
     }
     .staff{
         padding-bottom: 30px;
+        flex-direction: column;
     }
     
     .stafftext{

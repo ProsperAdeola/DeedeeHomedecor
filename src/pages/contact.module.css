@@ -133,7 +133,7 @@
     
 }
 
-@media (300px <= width <= 1080px){
+@media (300px <= width <= 780px){
     .discount{
         color: #500472;
         padding: 10px;
