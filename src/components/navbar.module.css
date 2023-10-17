@@ -27,6 +27,10 @@
    text-decoration: none; 
 }
 
+.li:hover{
+    background-color: white;
+}
+
 @media (300px <= width <= 780px){
 
     .navbar{
