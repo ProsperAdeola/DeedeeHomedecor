@@ -64,8 +64,4 @@
        color: #fff; 
        text-decoration: none; 
     }
-    
-    .li:hover{
-        -webkit-text-stroke: 2px black;
-    }
 }
