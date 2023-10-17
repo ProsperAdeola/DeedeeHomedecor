@@ -120,7 +120,7 @@
     }
     
     .txt{
-        position:relative;
+        position:absolute;
         z-index: 1;
         top: 28%;
         color: white;
