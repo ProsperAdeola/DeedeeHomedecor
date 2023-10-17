@@ -6,6 +6,14 @@
     text-size-adjust: 100px;
 }
 
-@media   (min-width: 280px) and (max-width: 768px){
-    
+@media (300px <= width <= 1080px){
+    .btn{ 
+        color: #ffff;
+        border-radius: 10px;
+        background-color: #500472;
+        text-align: center;
+        text-size-adjust: 100px;
+        width: 100px;
+        margin-left: 90px
+    }
 }

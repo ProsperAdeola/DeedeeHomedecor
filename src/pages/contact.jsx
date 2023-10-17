@@ -32,9 +32,9 @@ const Contact = (name) => {
         <h1 className={style.contheading}> To contact us</h1>
         <div className={style.container}>
           <div>
-            <h1  className={style.contheading}>Have a Question?</h1>
+            <h1  className={style.contheading1}>Have a Question?</h1>
             <p className={style.contp}>
-              Are you looking at asking us questions and make an enquires, our
+              Are you looking to asking us questions and make an enquires, our
               customer service representatives are always available to answer
               your questions</p>
               <div className={style.in}>

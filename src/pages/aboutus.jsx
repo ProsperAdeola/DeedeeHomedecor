@@ -1,6 +1,7 @@
 import React from "react";
 import Navbar from "../components/NavBar";
 import style from "./aboutus.module.css";
+import Footer from "../components/footer";
 
 const Aboutus = () => {
   return (
@@ -77,7 +78,7 @@ const Aboutus = () => {
               <p className={style.stafftext}>Design Coordinator</p>
             </div>
             <div >
-              <img className={style.staffimage1} src="./images/f.jpg" alt="" />
+              <img className={style.staffimage1} src="./images/h.jpg" alt="" />
               <p className={style.stafftext}>Customer Service Representative</p>
             </div>
             <div >
@@ -90,6 +91,7 @@ const Aboutus = () => {
           </div>
         </div>
       </div>
+      <Footer/>
     </div>
   );
 };

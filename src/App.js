@@ -3,6 +3,7 @@ import Service from "./pages/Service1";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Contact from "./pages/contact";
 import Aboutus from "./pages/aboutus";
+// import Loader from "./components/loader";
 
 
 
@@ -19,6 +20,7 @@ function App() {
         <Route path='/contact' element={<Contact />} />
       </Routes>
       </BrowserRouter>
+      {/* <Loader/> */}
     </div>
   );
 }

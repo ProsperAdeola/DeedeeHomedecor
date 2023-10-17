@@ -88,3 +88,20 @@
     }
     
 }
+
+
+@media (300px <= width <= 1080px){
+    
+.list{
+    width: 50%;
+    color: #ffff;
+    display: flex;
+    margin-left: 100px;    
+}
+
+.col{
+    color: #ffff;
+    margin: 90px;
+    padding: 20px;
+}
+}

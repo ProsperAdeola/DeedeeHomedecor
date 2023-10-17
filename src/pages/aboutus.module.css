@@ -72,7 +72,7 @@
 }
 
 
-@media (300px <= width <= 780px){
+@media (300px <= width <= 1080px){
 
 
     .discount{
@@ -99,7 +99,7 @@
     .aboutustext{
         position: absolute;
         z-index: 2;
-        top: 35%;
+        top: 28%;
         color: white;
         font-size: 20px;
         padding-left: 30px;
@@ -124,12 +124,20 @@
         border: 1px solid #500472;
         margin-left: 150px;
     }
+
+    .staffimage1{
+        width: 100px;
+        border-radius: 700px;
+        border: 1px solid #500472;
+        margin-left: 150px;
+    }
+}
     
     .break{
         padding-top: 30px;
     }
     .staff{
-        padding-bottom: 40px;
+        padding-bottom: 30px;
         flex-direction: column;
     }
     
@@ -140,10 +148,4 @@
         padding-left: 0px;
     }
     
-    .staffimage1{
-        width: 100px;
-        border-radius: 700px;
-        border: 1px solid #500472;
-        margin-left: 150px;
-    }
-}
+    

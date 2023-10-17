@@ -5,8 +5,6 @@
     font-size: 25px;
 }
 
-
-
 .container{
     display: flex;
 }
@@ -77,4 +75,89 @@
 
 .btns{
     margin-right: 300px;
+}
+
+
+
+@media (300px <= width <= 780px){
+    .discount{
+        color: #500472;
+        padding: 10px;
+        text-align: center;
+        font-size: 15px;
+    }
+    
+    .container{
+        display: flex;
+    }
+    
+    
+    .heropic{
+        height: 350px;
+        width: 100%;
+        opacity: 0.6;
+    }
+    
+    .hero{
+        position: relative;
+        z-index: 1;
+    }
+    
+    .txt{
+        position: absolute;
+        z-index: 2;
+        top: 28%;
+        color: white;
+        font-size: 20px;
+        padding-left: 30px;
+    }
+    
+    
+    .so{
+        padding-top: 70px;
+        padding-bottom: 50px;
+    }
+    
+    .offer{
+        color: #500472;
+        text-align: center;
+        font-size: 40px;
+        padding-top: 10px;
+    }
+    
+    
+    .pt{
+        color: #500472;
+    }
+    
+    .paint{
+        display: flex;
+        gap: 10;
+        text-align: center ;
+       margin-left: 50px;
+       margin-right: 50px;
+       padding-top: 40px;
+       flex-direction: column;
+    }
+    
+    .p{
+        padding-top: 20px;
+    }
+    
+    .pp{
+        text-align: justify;
+        padding-bottom: 20px;
+        text-align: center;
+        margin-right: 5px;
+    }
+    
+    .pi{
+        width: 20rem;
+        padding: 10px;
+    }
+    
+    .btns{
+        margin-right: 300px;
+    }
+    
 }
