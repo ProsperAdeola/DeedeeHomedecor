@@ -45,6 +45,10 @@
         margin-right: 250px;
         height: 40px;  
     }
+
+    .toggle{
+        background-color: white;
+    }
     
     .ul{
         display: flex;
