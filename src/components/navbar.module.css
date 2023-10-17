@@ -47,7 +47,7 @@
     }
 
     .toggle{
-        -webkit-text-stroke: 2px white;
+        -webkit-text-stroke: 2px black;
     }
     
     .ul{
@@ -56,12 +56,12 @@
         gap: 40px;  
     }
     .ul:hover{
-        background-color: white;
+        -webkit-text-stroke: 2px white;
     }
     
     .li{
         list-style: none;
-       color: black; 
+       color: #fff; 
        text-decoration: none; 
     }
     
