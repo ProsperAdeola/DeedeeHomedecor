@@ -18,12 +18,12 @@ const Service = (name) => {
           <img className={style.heropic} src="./images/1.jpg" alt="" />
         </div>
         <div className={style.txt}>
-          <h1>Your home is your safe haven</h1>
-          <p>
+          <h1 className={style.ccp}>Your home is your safe haven</h1>
+          <p className={style.cp}>
             ...add elements that will calm your space and soothe your soul
             <br></br> One of the most important
             things to keep in mind while decorating is that your home is about
-            you. You are the one that needs to be comfortable there. You are the
+            you.<br></br> You are the one that needs to be comfortable there. You are the
             one that needs to look at the color of the walls and stare at the
             painting above the mantle every day
           </p>
