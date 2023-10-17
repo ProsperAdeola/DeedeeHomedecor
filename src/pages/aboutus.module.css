@@ -98,7 +98,7 @@
     }
     
     .aboutustext{
-        position: absolute;
+        position: relative;
         z-index: 2;
         top: 28%;
         color: white;

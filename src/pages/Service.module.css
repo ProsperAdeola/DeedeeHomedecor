@@ -28,7 +28,7 @@
     position: absolute;
     z-index: 2;
     top: 50%;
-    color: black;
+    color: white;
     font-size: 15px;
     padding-left: 30px;
 }
@@ -128,7 +128,7 @@
         position:absolute;
         z-index: 1;
         top: 28%;
-        color: black;
+        color: white;
         font-size: 20px;
         padding-left: 30px;
     }
