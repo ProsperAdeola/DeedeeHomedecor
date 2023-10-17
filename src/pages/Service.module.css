@@ -8,7 +8,9 @@
 .container{
     display: flex;
 }
-
+.heros{
+    position: relative;
+}
 
 .heropic{
     height: 600px;
@@ -106,6 +108,9 @@
         display: flex;
     }
     
+    .heros{
+        position: relative;
+    }
     
     .heropic{
         height: 350px;
