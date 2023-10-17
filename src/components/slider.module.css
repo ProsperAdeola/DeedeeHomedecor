@@ -16,7 +16,7 @@
 .carouselcap{
     z-index: 1;
     position: flex;
-    position: relative;
+    position: absolute;
     top: 30%;
     color: white;
     width: 80%;

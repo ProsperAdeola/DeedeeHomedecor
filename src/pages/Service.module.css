@@ -13,7 +13,8 @@
 .heropic{
     height: 600px;
     width: 100%;
-    filter: brightness(50%);
+    filter: brightness(30%);
+    position: relative;
 }
 
 .hero{
@@ -111,6 +112,7 @@
         height: 350px;
         width: 100%;
         filter: brightness(50%);
+        position: relative;
     }
     
     .hero{
