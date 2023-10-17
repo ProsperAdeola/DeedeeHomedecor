@@ -1,7 +1,3 @@
-@media   (min-width: 280px) and (max-width: 768px){
-    
-}
-
 .image{
     height: 600px;
     width: 100%;
@@ -46,3 +42,48 @@
     display: flex;
 }
 
+@media (260px <= width <= 1080px){
+    .image{
+        height: 400px;
+        width: 100%;
+        position: relative;
+        z-index: 1;
+        background-color: black;
+        filter: brightness(30%);
+    }
+    
+    .carouselitem {
+        position: relative;
+        z-index: 1;
+        
+    } 
+    
+    .carouselcap{
+        z-index: 1;
+        position: flex;
+        position: relative;
+        top: 30%;
+        color: white;
+        width: 80%;
+        align-items: center;
+        justify-content: center;
+        
+    }
+    
+    .ccp{
+        width: 100%;
+        font-size: 25px;
+        /* margin-right: 100px ; */
+       text-align: center;
+    }
+    
+    .cp{
+        width: 100%;
+        text-align: center;
+        margin-left: 10px;
+        font-size: 15px;
+        align-items: center;
+        justify-content: center;
+        display: flex;
+    }
+}
