@@ -8,7 +8,7 @@ const Navbar1 = () => {
   return (
     <div className={style.navbar}>
 
-<Navbar className={style.nav} >
+<Navbar className={style.nav} expand="lg" >
         <Container className={style.Container}>
           <img className={style.logo}src="./images/logo.png" alt="" />
           <Nav className={`  ${style.ul}`}  >
