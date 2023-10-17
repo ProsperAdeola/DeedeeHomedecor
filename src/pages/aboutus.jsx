@@ -20,8 +20,7 @@ const Aboutus = () => {
         <div className={style.aboutustext}>
           <h1>Decorate your Home</h1>
           <p>
-            It gives the illusion that your life is more intresting than it
-            really is.<br></br>It can be very tempting to decorate your home
+            It can be very tempting to decorate your home
             based on what you think will be appealing to others. How often do we
             choose colors and styles and artwork with someone else’s voice in
             the back of our mind, drowning out our own preferences?
