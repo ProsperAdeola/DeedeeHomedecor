@@ -210,11 +210,10 @@
     .con{
         border: 1px solid #500472;
         border-radius: 20px;
-       margin-right: 100px;
+       margin-left: 100px;
        padding-top: 50px;
        box-shadow: 10px 10px 5px #a598ac;
        background-color: #a598ac;
-       padding-right: 190px;
         
     }
     
