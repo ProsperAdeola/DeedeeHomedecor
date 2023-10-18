@@ -191,8 +191,7 @@
     .contp{
         font-size: 15px;
         text-align: center;
-        padding-right: 190px;
-        
+        padding-right: 150px; 
     }
     
     .in{
@@ -260,7 +259,7 @@
     }
     
     .enqicon{
-        margin: 20px;  
+        margin: 30px;  
     }
     
     .icons{
