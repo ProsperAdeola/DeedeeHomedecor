@@ -249,7 +249,7 @@
     }
     
     .enq{
-        margin-left: 150px;
+        
         padding-bottom: 30px;
         
     }
@@ -257,16 +257,12 @@
         font-size: 20px;
         padding-right: 30px;
         color: #500472;
-        
-        padding-top: 30px;
-    
     }
     
     .enqicon{
-        margin: 30px;
-        
-        
+        margin: 30px;  
     }
+
     .icons{
         width: 30px;
         padding-bottom: 10px;
