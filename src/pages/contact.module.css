@@ -18,10 +18,10 @@
 }
 
 .contxt{
-    position: relative;
+    position: absolute;
     z-index: 2;
     top: 50%;
-    color: white;
+    color: black;
     font-size: 25px;
     padding-left: 30px;
 }
