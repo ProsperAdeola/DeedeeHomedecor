@@ -190,7 +190,9 @@
     }
     .contp{
         font-size: 15px;
-        text-align: center; 
+        text-align: center;
+        padding-left: 40px;
+        
     }
     
     .in{
