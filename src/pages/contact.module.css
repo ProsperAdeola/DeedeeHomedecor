@@ -249,8 +249,9 @@
     }
     
     .enq{
-        
+        margin-right: 150px;
         padding-bottom: 30px;
+        m
         
     }
     .enquires{
@@ -262,7 +263,7 @@
     .enqicon{
         margin: 30px;  
     }
-
+    
     .icons{
         width: 30px;
         padding-bottom: 10px;
