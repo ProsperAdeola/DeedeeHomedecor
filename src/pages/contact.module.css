@@ -154,7 +154,7 @@
     }
     
     .contxt{
-        position: relative;
+        position: absolute;
         z-index: 2;
         top: 35%;
         color: white;

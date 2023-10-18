@@ -21,7 +21,7 @@ const Aboutus = () => {
           <h1>Decorate your Home</h1>
           <p>
             It can be very tempting to decorate your home
-            based on what you think will be appealing to others. How often do we
+            based on what you think will be appealing to others. <br></br>How often do we
             choose colors and styles and artwork with someone else’s voice in
             the back of our mind, drowning out our own preferences?
           </p>
@@ -36,7 +36,7 @@ const Aboutus = () => {
             beauty to their homes using difgfernt items, ranging from furniture,
             artwork and other accessories.<br></br> We love sharing our passion
             for decorating, it allows us to find unique decorating items, put it
-            together and bring it your space to make your home homely.<br></br>{" "}
+            together and bring it your space to make your home homely.<br></br>
             We help you curate a selection of home decoration to help you crate
             spaces in your home that are unique, stylish, and personalized to
             you. we believe there is no rules when it come to decorating your
