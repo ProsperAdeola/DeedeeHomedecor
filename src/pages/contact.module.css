@@ -154,12 +154,12 @@
     }
     
     .contxt{
-        position: absolute;
-        z-index: 2;
-        top: 35%;
-        color: white;
+        position: relative;
+        top: 50%;
+        color: rgb(255, 255, 255);
         font-size: 20px;
         padding-left: 30px;
+        margin-top: -250px;
     }
     
     .Conth{
@@ -177,42 +177,40 @@
     
     .contheading{
         color: #500472;
-        padding-top: 70px;
+        padding-top: 190px;
         text-align: center;
         padding-bottom: 50px;
     }
     .contheading1{
         color: #500472;
-        padding-top: 0px;
         text-align: center;
         padding-bottom: 50px;
-        font-size: 20px;
+        font-size: 25px;
     }
     .contp{
-        font-size: 15px;
+        font-size: 20px;
         text-align: center;
-        padding-right: 150px; 
+        padding-right: 100px; 
     }
     
     .in{
-        flex-direction: column;
-        font-size: 15px;
-        text-align: left;
+        font-size: 20px;
+        text-align: center;
        margin-right: 50px;
     }
     .icn{
         border: none;
         background: none;
         font-size: 20px;
-        padding-left: 50px;
+        padding-left: 22px;
     }
     .con{
         border: 1px solid #500472;
         border-radius: 20px;
-       margin-right: 100px;
-       padding-top: 50px;
        box-shadow: 10px 10px 5px #a598ac;
        background-color: #a598ac;
+       margin: 20px;
+
     }
     
     .formheading{
@@ -223,6 +221,7 @@
     .contform{
         padding-bottom: 30px;
         padding-right: 100px;
+
     }
     
     .controw{
@@ -248,25 +247,20 @@
     }
     
     .enq{
-        margin-right: 150px;
-        padding-bottom: 30px;
+        margin-left: 100px;
         
     }
     .enquires{
         font-size: 20px;
-        padding-right: 30px;
         color: #500472;
     }
     
     .enqicon{
-        margin: 30px;  
+        margin: 30px; 
     }
     
     .icons{
-        width: 30px;
-        padding-bottom: 10px;
-        margin-right: 50px;
-        animation: moveIcon 2s infinite;
+        margin-right: 20px;
         
     }
 }
