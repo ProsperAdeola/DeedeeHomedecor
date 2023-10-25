@@ -122,7 +122,7 @@
         width: 200px;
         border-radius: 500px;
         border: 1px solid #500472;
-        margin-left: 100px;
+        margin-left: 40px;
         flex-direction: column;
     }
 
@@ -130,7 +130,7 @@
         width: 200px;
         border-radius: 500px;
         border: 1px solid #500472;
-        margin-left: 100px;
+        margin-left: 40px;
         flex-direction: column;
     }
 }
