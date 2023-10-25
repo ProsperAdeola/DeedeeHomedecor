@@ -227,5 +227,6 @@
         align-items: center;
         display: inline-block;
         float: left;
+        gap: 1;
     }
 }
