@@ -21,7 +21,7 @@ const Contact = (name) => {
           <img className={style.cont} src="./images/contact.jpg" alt="" />
         </div>
         <div className={style.contxt}>
-          <h1>Love begins at home</h1>
+          <h1><b>Love begins at home</b></h1>
           <p>
             ...and it is not how much we do, but how much love we put in action
           </p>

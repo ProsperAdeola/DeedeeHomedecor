@@ -188,5 +188,9 @@
     .btns{
         margin-right: 300px;
     }
+
+    .btn{
+        padding: 40px;
+    }
     
 }

@@ -18,7 +18,7 @@ const Aboutus = () => {
           <img className={style.aboutushero} src="./images/2.jpg" alt="" />
         </div>
         <div className={style.aboutustext}>
-          <h1>Decorate your Home</h1>
+          <h1><b>Decorate your Home</b></h1>
           <p>
             It can be very tempting to decorate your home
             based on what you think will be appealing to others. <br></br>How often do we

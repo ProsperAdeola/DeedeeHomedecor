@@ -18,7 +18,7 @@ const Service = (name) => {
           <img className={style.heropic} src="./images/1.jpg" alt="" />
         </div>
         <div className={style.txt}>
-          <h1 className={style.ccp}>Your home is your safe haven</h1>
+          <h1 className={style.ccp}><b>Your home is your safe haven</b></h1>
           <p className={style.cp}>
             ...add elements that will calm your space and soothe your soul
             <br></br> One of the most important
@@ -48,7 +48,7 @@ const Service = (name) => {
             </p>
             <div className={style.btns}>
               <Link to="/contact">
-                <Button1 name="Learn more..." />
+                <Button1 name="Learn more..." className={style.btn} />
               </Link>
             </div>
           </div>
