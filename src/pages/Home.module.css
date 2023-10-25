@@ -216,9 +216,7 @@
     }
     .icn2{
         padding-left: 70px;
-        display: flex;
-        justify-content: center;
-        align-items: center;
+       
         
     }
     .icn{
@@ -227,8 +225,7 @@
         font-size: 20px;
         z-index: 2;
         align-items: center;
-        display: flex;
-        justify-content: center;
-        align-items: center; 
+        display: inline-block;
+        float: left;
     }
 }
