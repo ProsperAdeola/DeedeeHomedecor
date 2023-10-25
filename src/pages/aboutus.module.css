@@ -107,17 +107,17 @@
     }
     
     .aboutusheading{
-        color: black;
+        color: #500472;
         text-align: center;
         font-size: 30px;
-        padding-top: 70px;
+        padding-top: 100px;
     }
     
     .aboutusparagraph{
         text-align: center;
         font-size: 15px;
-        padding-right: 80px;
-        padding-top: 70px;
+        padding-right: 50px;
+        padding-top: 100px;
     }
     .staffimage{
         width: 100px;
