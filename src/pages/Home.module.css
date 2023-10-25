@@ -228,5 +228,6 @@
         display: inline-block;
         float: left;
         gap: 1;
+        padding-right: 20px;
     }
 }
