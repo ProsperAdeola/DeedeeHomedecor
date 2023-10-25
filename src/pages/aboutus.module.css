@@ -123,6 +123,7 @@
         border-radius: 700px;
         border: 1px solid #500472;
         margin-left: 150px;
+        flex-direction: column;
     }
 
     .staffimage1{
@@ -130,6 +131,7 @@
         border-radius: 700px;
         border: 1px solid #500472;
         margin-left: 150px;
+        flex-direction: column;
     }
 }
     
