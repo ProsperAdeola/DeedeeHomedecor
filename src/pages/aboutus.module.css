@@ -132,7 +132,6 @@
         border: 1px solid #500472;
         margin-left: 40px;
         flex-direction: column;
-        margin-top: -20px;
     }
 }
     
@@ -148,7 +147,6 @@
         font-size: 15px;
         padding-top: 10px;
         text-align: center;
-        padding-left: 0px;
     }
     
     
