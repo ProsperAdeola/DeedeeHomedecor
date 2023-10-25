@@ -224,5 +224,6 @@
         font-size: 20px;
         z-index: 2;
         align-items: center;
+        padding-left: 50px;
     }
 }
