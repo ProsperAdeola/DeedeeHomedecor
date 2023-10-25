@@ -63,7 +63,7 @@ const Footer = () => {
           </div>
         </Col>
 
-        <Col className={style.col}>
+        <Col className={style.col1}>
           <button className={style.btn}>LOCATION</button>
           <p>Plot 10,Segadot Filling Station,Oba ile, Akure, Ondo State.</p>
         </Col>

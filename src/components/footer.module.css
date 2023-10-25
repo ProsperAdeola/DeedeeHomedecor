@@ -29,6 +29,12 @@
     padding: 20px;
 }
 
+.col1{
+    color: #ffff;
+    margin: 10px;
+    padding: 20px;
+}
+
 .text{
     margin-left: 20px;
 }
@@ -70,6 +76,12 @@
     }
     
     .col{
+        color: #ffff;
+        margin: 90px;
+        padding: 20px;
+    }
+
+    .col1{
         color: #ffff;
         margin: 90px;
         padding: 20px;
