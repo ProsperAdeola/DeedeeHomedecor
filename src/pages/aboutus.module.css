@@ -110,7 +110,7 @@
         color: #500472;
         text-align: center;
         font-size: 30px;
-        padding-top: 50px;
+        padding-top: 70px;
     }
     
     .aboutusparagraph{
@@ -139,7 +139,6 @@
         padding-top: 30px;
     }
     .staff{
-        padding-bottom: 30px;
         flex-direction: column;
     }
     

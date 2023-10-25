@@ -43,7 +43,7 @@ const Aboutus = () => {
             home. Our team will help you bring our spaces to life with our
             services.<br></br>Our experienced team come up with designs that
             matches your idea you and allow you to pick the one that best soothe
-            you
+            you.
           </p>
         </div>
         <div className={style.break}>
