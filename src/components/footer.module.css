@@ -41,7 +41,7 @@
 
 .right{
     margin-left: 5%;
-    color: black;
+    color: rgb(182, 182, 182);
 }
 
 
@@ -85,23 +85,7 @@
     
     .right{
         margin-left: 5%;
+        color: rgb(182, 182, 182);
     }
     
-}
-
-
-@media (300px <= width <= 1080px){
-    
-.list{
-    width: 50%;
-    color: #ffff;
-    display: flex;
-    margin-left: 100px;    
-}
-
-.col{
-    color: #ffff;
-    margin: 90px;
-    padding: 20px;
-}
 }

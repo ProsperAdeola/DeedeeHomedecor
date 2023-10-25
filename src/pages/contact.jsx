@@ -79,10 +79,10 @@ const Contact = (name) => {
       <div className={style.enq}>
         <h2 className={style.enquires}>For More Enquires:</h2>
         <div className={style.enqicons}>
-          <img className={style.icons} src="./images/twitter.png" alt="" />
-          <img className={style.icons} src="./images/whatsapp.png" alt="" />
-          <img className={style.icons} src="./images/facebook.png" alt="" />
-          <img className={style.icons} src="./images/instagram.png" alt="" />
+        <a href="https://twitter.com/login"> <img className={style.icons} src="./images/twitter.png" alt="" /></a>
+        <a href="https://www.whatsapp.com/join"> <img className={style.icons} src="./images/whatsapp.png" alt="" /></a>
+        <a href="https://m.facebook.com/login"> <img className={style.icons} src="./images/facebook.png" alt="" /></a>
+        <a href="https://www.instagram.com/accounts/login/"> <img className={style.icons} src="./images/instagram.png" alt="" /></a>
         </div>
       </div>
 
