@@ -224,7 +224,6 @@
         font-size: 20px;
         z-index: 2;
         align-items: center;
-        margin-right: 70px;
-        flex-direction: row;
+        display: flex;
     }
 }
