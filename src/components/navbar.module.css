@@ -33,12 +33,12 @@
 
 .toggle{
     -webkit-text-stroke: 2px;
-    color: #ffffff;
+    background-color: #ffffff;
 }
 
 .collapse{
     -webkit-text-stroke: 2px;
-    color: #ffffff;
+    background-color: #ffffff;
 }
 
 @media (300px <= width <= 780px){
@@ -63,7 +63,7 @@
 
     .collapse{
         -webkit-text-stroke: 2px;
-        color: #ffffff;
+        background-color: #ffffff;
     }
     
     .ul{
