@@ -12,7 +12,7 @@ const Navbar1 = () => {
         <Container>
           <img className={style.logo} src="./images/lg.png" alt="" />
           <Navbar.Toggle
-            className={style.toggle}
+            className={style.toggle} style={{ color: "white" }}
             aria-controls="basic-navbar-nav"
           />
           <Navbar.Collapse className={style.collapse}>
