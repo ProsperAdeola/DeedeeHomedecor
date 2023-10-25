@@ -62,13 +62,11 @@
         color: #ffff;
         display: flex;
         flex-direction: column;
-        align-items: center;
     }
     
     .body{
-        margin-left: 50px;
+        margin-left: 20px;
         margin-top: 20px;
-        align-items: center;
     }
     
     .btn{
@@ -78,14 +76,11 @@
     }
     
     .col{
-        color: #ffff;
-        align-items: center;
-        
+        color: #ffff; 
     }
 
     .col1{
         color: #ffff;
-        align-items: center;
         
     }
     
