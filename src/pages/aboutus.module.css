@@ -119,6 +119,7 @@
         padding-right: 50px;
     }
     .staffimage{
+        width: 250px;
         border-radius: 700px;
         border: 1px solid #500472;
         margin-left: 150px;
@@ -126,6 +127,7 @@
     }
 
     .staffimage1{
+        width: 250px;
         border-radius: 700px;
         border: 1px solid #500472;
         margin-left: 150px;
