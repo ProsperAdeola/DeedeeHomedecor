@@ -216,6 +216,9 @@
     }
     .icn2{
         padding-left: 70px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
         
     }
     .icn{
