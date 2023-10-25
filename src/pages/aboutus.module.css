@@ -154,7 +154,7 @@
     }
     
     .staff1{
-        flex-direction: column;
+        flex-direction: row;
     }
 }
     
