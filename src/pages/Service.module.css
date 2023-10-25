@@ -27,7 +27,7 @@
 .txt{
     position: absolute;
     z-index: 2;
-    top: 50%;
+    top: 40%;
     color: white;
     font-size: 25px;
     padding-left: 30px;
@@ -42,10 +42,8 @@
 .cp{
     width: 100%;
     text-align: left;
-    margin-left: 10px;
-    font-size: 15px;
-    align-items: center;
-    justify-content: center;
+    padding-right: 10px;
+    font-size: 20px;
 }
 
 .so{
@@ -126,11 +124,10 @@
     
     .txt{
         position:relative;
-        z-index: 1;
         color: white;
-        font-size: 20px;
-        padding-left: 20px;
-        padding-top: -150px;
+        font-size: 15px;
+        padding-left: 10px;
+        padding-top: -280px;
     }
     
     .ccp{
