@@ -64,11 +64,15 @@
     padding-left: 100px;
 }
 
+.staff1{
+    display: flex;
+}
+
 .staffimage1{
     width: 300px;
     border-radius: 700px;
     border: 1px solid #500472;
-    margin: 70px;
+    margin-left: 110px;
 }
 
 

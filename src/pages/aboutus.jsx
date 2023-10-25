@@ -77,31 +77,22 @@ const Aboutus = () => {
               </div>
             </div>
 
-            <div className={style.staff}>
+            <div className={style.staff1}>
               <div>
                 <img
-                  className={style.staffimage1}
-                  src="./images/e.jpg"
-                  alt=""
-                />
+                  className={style.staffimage1}src="./images/e.jpg"alt=""/>
                 <p className={style.stafftext}>Design Coordinator</p>
               </div>
               <div>
                 <img
-                  className={style.staffimage1}
-                  src="./images/h.jpg"
-                  alt=""
-                />
+                  className={style.staffimage1}src="./images/h.jpg"alt=""/>
                 <p className={style.stafftext}>
                   Customer Service Representative
                 </p>
               </div>
               <div>
                 <img
-                  className={style.staffimage1}
-                  src="./images/g.jpg"
-                  alt=""
-                />
+                  className={style.staffimage1}src="./images/g.jpg"alt=""/>
                 <p className={style.stafftext}>Administrative Assistants</p>
               </div>
             </div>
