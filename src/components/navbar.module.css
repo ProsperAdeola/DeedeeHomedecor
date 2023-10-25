@@ -36,6 +36,11 @@
     color: #ffffff;
 }
 
+.collapse{
+    -webkit-text-stroke: 2px;
+    color: #ffffff;
+}
+
 @media (300px <= width <= 780px){
 
     .navbar{
@@ -54,6 +59,11 @@
     .toggle{
         -webkit-text-stroke: 2px;
         background-color: #ffffff;
+    }
+
+    .collapse{
+        -webkit-text-stroke: 2px;
+        color: #ffffff;
     }
     
     .ul{

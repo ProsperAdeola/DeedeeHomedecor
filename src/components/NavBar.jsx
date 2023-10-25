@@ -15,7 +15,7 @@ const Navbar1 = () => {
             className={style.toggle} style={{ color: "white" }}
             aria-controls="basic-navbar-nav"
           />
-          <Navbar.Collapse className={style.collapse}>
+          <Navbar.Collapse className={style.collapse} style={{ color: "white" }}>
             <Nav className={`  ${style.ul}`}>
               <Link to="/" className={style.li} style={{ color: "white" }}>
                 Home
