@@ -38,7 +38,7 @@
 
 .collapse{
     -webkit-text-stroke: 2px;
-    background-color: #ffffff;
+    
 }
 
 @media (300px <= width <= 780px){
@@ -63,7 +63,7 @@
 
     .collapse{
         -webkit-text-stroke: 2px;
-        background-color: #ffffff;
+        border-color: #ffffff;
     }
     
     .ul{
