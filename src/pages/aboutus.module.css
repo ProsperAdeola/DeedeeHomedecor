@@ -102,7 +102,7 @@
         top:50%;
         color: white;
         font-size: 15px;
-        padding-left: 30px;
+        padding-left: 20px;
         margin-top: -280px;
     }
     
@@ -111,11 +111,12 @@
         padding: 30px;
         text-align: center;
         font-size: 30px;
+        padding-top: 30px;
     }
     
     .aboutusparagraph{
         text-align: center;
-        font-size: 20px;
+        font-size: 15px;
         padding-right: 100px;
     }
     .staffimage{
