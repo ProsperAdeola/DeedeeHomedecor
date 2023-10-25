@@ -114,7 +114,6 @@
         height: 350px;
         width: 100%;
         filter: brightness(50%);
-        position: relative;
     }
     
     .hero{
@@ -127,8 +126,21 @@
         top:50%;
         color: rgb(0, 0, 0);
         font-size: 10px;
-        padding-left: 10px;
+        padding-left: 15px;
         margin-top: -280px;
+    }
+
+    .ccp{
+        width: 100%;
+        font-size: 15px;
+       text-align: left;
+    }
+    
+    .cp{
+        width: 100%;
+        text-align: left;
+        padding-right: 10px;
+        font-size: 15px;
     }
     
     .so{
@@ -142,7 +154,6 @@
         font-size: 35px;
         padding: 30px;
     }
-    
     
     .pt{
         color: #500472;
