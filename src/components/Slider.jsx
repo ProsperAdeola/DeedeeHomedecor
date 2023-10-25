@@ -50,8 +50,7 @@ const Slide = () => {
             way where you appreciate things.
           </h1>
           <p className={c.cp}>
-            There are things you love, your home inclusive, and you want to make
-            it uniquely for yourself.<br></br>Your home represents your life as
+            Your home represents your life as
             you journey from one chapter to the next. As your life grows and
             develops, so should your home. While you learn more about yourself,
             your home should reflect that exploration. And as you mature in

@@ -14,7 +14,7 @@
 .cont{
     height: 600px;
     width: 100%;
-    filter: brightness(30%);
+    filter: brightness(50%);
 }
 
 .contxt{
@@ -150,7 +150,7 @@
     .cont{
         height: 400px;
         width: 100%;
-        filter: brightness(30%);
+        filter: brightness(50%);
     }
     
     .contxt{
