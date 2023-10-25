@@ -124,11 +124,10 @@
     
     .txt{
         position:relative;
-        top:20%;
+        top:50%;
         color: rgb(0, 0, 0);
         font-size: 15px;
         padding-left: 10px;
-        padding-top: -200px;
     }
     
     .so{
