@@ -138,13 +138,12 @@
         margin-left: 60px;
         flex-direction: column;
     }
-}
-    
+
     .break{
         padding-top: 30px;
     }
     .staff{
-        flex-direction: row;
+        flex-direction: column;
     }
     
     .stafftext{
@@ -153,5 +152,14 @@
         text-align: center;
         padding-left: 0px;
     }
+    
+    .staff1{
+        flex-direction: column;
+    }
+}
+    
+    
+    
+    
     
     
