@@ -83,7 +83,7 @@ const Home = () => {
       <div className={style.conts}>
         <h1 className={style.ts}>Testimonals</h1>
 
-        <Carousel className={style.tsp} indicators={false}>
+        <Carousel className={style.tsp} indicators={false} showArrow={false}>
           <Carousel.Item className={style.tspbox}>
             <p className={style.tsptext}>
               I would recommend deedee home decor for anyone trying to beautify
