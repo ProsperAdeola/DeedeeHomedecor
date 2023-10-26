@@ -56,12 +56,17 @@
     }
 
     .toggle{
-        -webkit-text-stroke: 2px;
+        color: white !important;
         border-color: #ffffff;
     }
+    /* .toggle::after
+    .toggle::before{
+        color: white !important;
+        border-color: #ffffff;
+    } */
 
     .collapse{
-        -webkit-text-stroke: 2px;
+        color: white !important;
         border-color: #ffffff;
     }
     

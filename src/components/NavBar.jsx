@@ -13,10 +13,11 @@ const Navbar1 = () => {
           <img className={style.logo} src="./images/lg.png" alt="" />
           <Navbar.Toggle
             className={style.toggle} style={{ color: "white" }}
+            variant="light"
             aria-controls="basic-navbar-nav"
           />
           <Navbar.Collapse className={style.collapse} style={{ color: "white" }}>
-            <Nav className={`  ${style.ul}`}>
+            <Nav className={`  ${style.ul} `}>
               <Link to="/" className={style.li} style={{ color: "white" }}>
                 Home
               </Link>
