@@ -72,13 +72,12 @@
     }
     
     .ccp{
-       
         font-size: 20px;
        text-align: center;
+       top: 5%; 
     }
     
     .cp{
-        
         text-align: center;
         margin-left: 10px;
         font-size: 15px;
