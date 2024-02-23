@@ -18,7 +18,7 @@ const Contact = (name) => {
 
       <div className={style.heros}>
         <div className={style.conth} style={{ background: "black" }}>
-          <img className={style.cont} src="./images/contact.wepb" alt="" />
+          <img className={style.cont} src="./images/contact.jpg" alt="" />
         </div>
         <div className={style.contxt}>
           <h1><b>Love begins at home</b></h1>

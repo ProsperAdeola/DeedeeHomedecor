@@ -53,13 +53,13 @@ const Service = (name) => {
             </div>
           </div>
           <div>
-            <img className={style.pi} src="./images/p1.png" alt="" />
+            <img className={style.pi} src="./images/p1.jpg" alt="" />
           </div>
         </div>
 
         <div className={style.paint}>
           <div>
-            <img className={style.pi} src="/images/curtain.png" alt="" />
+            <img className={style.pi} src="/images/curtain.jpg" alt="" />
           </div>
           <div className={style.p}>
             <h2 className={style.pt}>Curtains</h2>
@@ -95,7 +95,7 @@ const Service = (name) => {
             </div>
           </div>
           <div>
-            <img className={style.pi} src="./images/4.png" alt="" />
+            <img className={style.pi} src="./images/4.jpg" alt="" />
           </div>
         </div>
       </div>
