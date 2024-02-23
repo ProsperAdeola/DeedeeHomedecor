@@ -59,7 +59,7 @@ const Service = (name) => {
 
         <div className={style.paint}>
           <div>
-            <img className={style.pi} src="./images/curtain.wepb" alt="" />
+            <img className={style.pi} src="/images/curtain.wepb" alt="" />
           </div>
           <div className={style.p}>
             <h2 className={style.pt}>Curtains</h2>
