@@ -53,7 +53,7 @@ const Service = (name) => {
             </div>
           </div>
           <div>
-            <img className={style.pi} src="./images/p1.wepb" alt="" />
+            <img className={style.pi} src="./images/p1.png" alt="" />
           </div>
         </div>
 
