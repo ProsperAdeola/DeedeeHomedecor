@@ -23,6 +23,15 @@
     border: none;
 }
 
+.loc{
+    width: 60%;
+    color: #79CBB8;
+    margin: 15px;
+    text-decoration: none;
+    background: none;
+    border: none;
+}
+
 .col{
     color: #ffff;
     margin: 10px;
@@ -68,11 +77,18 @@
         margin-left: 80px;
         margin-top: 20px;
     }
-    
+
     .btn{
         width: 60%;
         color: #79CBB8;
-        margin: 15px;
+        margin-left: 0px;
+        margin-left: -50px;
+    }
+    
+    .loc{
+        width: 60%;
+        color: #79CBB8;
+        margin: 0px;
     }
     
     .col{
@@ -85,7 +101,7 @@
     }
     
     .text{
-        margin-left: 20px;
+        margin-left: -10px;
     }
     
     .icon{

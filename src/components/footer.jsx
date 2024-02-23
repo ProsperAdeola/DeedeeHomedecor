@@ -13,9 +13,7 @@ const Footer = () => {
           <div className={style.body}>
             <div>
               {" "}
-              <Link to="/" className={style.btn}>
-                DEEDEE HOMEDECOR
-              </Link>
+              <Link to="/" className={style.btn}>HOME</Link>
             </div>
             <div>
               <Link to="/about" className={style.btn}>
@@ -38,7 +36,7 @@ const Footer = () => {
         </Col>
 
         <Col className={style.col}>
-          <Link to="/contact" className={style.btn}>
+          <Link to="/contact" className={style.loc}>
             CONTACT US
           </Link>
           <p className={style.text}>+2348160578035</p>
@@ -64,7 +62,7 @@ const Footer = () => {
         </Col>
 
         <Col className={style.col1}>
-          <button className={style.btn}>LOCATION</button>
+          <p className={style.loc}>LOCATION</p>
           <p>Plot 10,Segadot Filling Station,Oba ile, Akure, Ondo State.</p>
         </Col>
       </Row>

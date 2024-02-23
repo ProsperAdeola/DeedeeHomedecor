@@ -18,7 +18,7 @@ const Contact = (name) => {
 
       <div className={style.heros}>
         <div className={style.conth} style={{ background: "black" }}>
-          <img className={style.cont} src="./images/contact.jpg" alt="" />
+          <img className={style.cont} src="./images/contact.wepb" alt="" />
         </div>
         <div className={style.contxt}>
           <h1><b>Love begins at home</b></h1>
@@ -40,7 +40,7 @@ const Contact = (name) => {
               <div className={style.in}>
               <p><button className={style.icn}>
                   <FaInbox color="#500472" />
-              </button>deedeehomedecor@gmail.com</p>
+                </button>deedeehomedecor@gmail.com</p>
               <p><button className={style.icn}>
                   <FaPhone  color="#500472" />
               </button>+2348160578035</p>
@@ -58,16 +58,16 @@ const Contact = (name) => {
               <Row className={style.controw}>
                 <Form.Group className={style.contgroup}>
                   <Form.Label>Name</Form.Label>
-                  <Form.Control className={style.contS} type="text" />
+                  <Form.Control className={style.contS} type="text" required />
                 </Form.Group>
                 <Form.Group className={style.contgroup}>
                   <Form.Label>Email</Form.Label>
-                  <Form.Control className={style.contS} type="text" />
+                  <Form.Control className={style.contS} type="text" required/>
                 </Form.Group>
 
                 <Form.Group className={style.contgroup}>
                   <Form.Label>Subject</Form.Label>
-                  <Form.Control className={style.contS1} type="text" />
+                  <Form.Control className={style.contS1} type="text" required/>
                 </Form.Group>
                 <Button className={style.abtbtn} name="Submit" />
               </Row>

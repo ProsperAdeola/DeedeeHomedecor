@@ -154,6 +154,7 @@
         text-align: center;
         font-size: 35px;
         padding: 30px;
+        margin-top: 40px;
     }
     
     .pt{
@@ -179,19 +180,23 @@
         padding-bottom: 20px;
         text-align: center;
         margin-right: 5px;
+        
     }
     
     .pi{
-        width: 20rem;
+        width: 30rem;
         padding: 10px;
     }
     
     .btns{
-        margin-right: 300px;
+        margin-right: 600px;
+        padding-left: 130px;
+        margin-top: -40px;
     }
 
     .btn{
         padding: 40px;
+        
     }
     
 }

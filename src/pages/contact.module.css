@@ -158,7 +158,7 @@
         top: 50%;
         color: rgb(255, 255, 255);
         font-size: 20px;
-        padding-left: 30px;
+        padding: 30px;
         margin-top: -250px;
     }
     
@@ -177,7 +177,7 @@
     
     .contheading{
         color: #500472;
-        padding-top: 190px;
+        padding-top: 100px;
         text-align: center;
         padding-bottom: 50px;
     }
@@ -186,11 +186,14 @@
         text-align: center;
         padding-bottom: 50px;
         font-size: 25px;
+        padding-top: 0px;
+        margin-top: 10px;
     }
     .contp{
         font-size: 20px;
         text-align: center;
-        padding-right: 100px; 
+        padding-right: 20px; 
+        
     }
     
     .in{
@@ -214,8 +217,9 @@
     }
     
     .formheading{
-        padding-left: 20px;
+        padding-left: 80px;
         padding-right: 10px;
+        padding-top: -5px;
     }
     
     .contform{
@@ -231,6 +235,7 @@
     
     .contgroup{
         padding-bottom: 30px;
+        padding-top: -10px;
     }
     
     .contS1{
@@ -244,6 +249,7 @@
     
     .abtbtn{
         padding-top: 80px;
+        
     }
     
     .enq{
@@ -253,14 +259,16 @@
     .enquires{
         font-size: 20px;
         color: #500472;
+        padding-left: 100px;
     }
     
     .enqicon{
-        margin: 30px; 
+        margin: 50px; 
+        padding-right: 100px;
     }
     
     .icons{
         margin-right: 20px;
-        
+        padding-right: 10px;
     }
 }

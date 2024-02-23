@@ -73,11 +73,13 @@
     .ul{
         display: flex;   
         font-size: 15px;
-        gap: 40px;  
+        gap: 40px; 
+        padding-top: 40px; 
     }
     
     .li{
         list-style: none;
        text-decoration: none; 
+       
     }
 }

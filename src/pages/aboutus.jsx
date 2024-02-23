@@ -15,7 +15,7 @@ const Aboutus = () => {
 
       <div className={style.heros}>
         <div className={style.absh} style={{ background: "black" }}>
-          <img className={style.aboutushero} src="./images/2.jpg" alt="" />
+          <img className={style.aboutushero} src="./images/2.wepb" alt="" />
         </div>
         <div className={style.aboutustext}>
           <h1><b>Decorate your Home</b></h1>
@@ -57,22 +57,22 @@ const Aboutus = () => {
 
             <div className={style.staff}>
               <div>
-                <img className={style.staffimage} src="./images/a.jpg" alt="" />
+                <img className={style.staffimage} src="./images/a.wepb" alt="" />
                 <p className={style.stafftext}>Creative Director</p>
               </div>
               <div>
-                <img className={style.staffimage} src="./images/b.jpg" alt="" />
+                <img className={style.staffimage} src="./images/b.wepb" alt="" />
                 <p className={style.stafftext}>Lead Designer</p>
               </div>
             </div>
 
             <div className={style.staff}>
               <div>
-                <img className={style.staffimage} src="./images/c.jpg" alt="" />
+                <img className={style.staffimage} src="./images/c.wepb" alt="" />
                 <p className={style.stafftext}>Designer</p>
               </div>
               <div>
-                <img className={style.staffimage} src="./images/d.jpg" alt="" />
+                <img className={style.staffimage} src="./images/d.wepb" alt="" />
                 <p className={style.stafftext}>Project Manager</p>
               </div>
             </div>
@@ -80,20 +80,20 @@ const Aboutus = () => {
             <div className={style.staff1}>
               <div>
                 <img
-                  className={style.staffimage1}src="./images/e.jpg"alt=""/>
+                  className={style.staffimage1}src="./images/e.wepb"alt=""/>
                 <p className={style.stafftext}>Design Coordinator</p>
               </div>
               <div>
                 <img
-                  className={style.staffimage1}src="./images/h.jpg"alt=""/>
+                  className={style.staffimage1}src="./images/h.wepb"alt=""/>
                 <p className={style.stafftext}>
                   Customer Service Representative
                 </p>
               </div>
               <div>
                 <img
-                  className={style.staffimage1}src="./images/g.jpg"alt=""/>
-                <p className={style.stafftext}>Administrative Assistants</p>
+                  className={style.staffimage1}src="./images/g.wepb"alt=""/>
+                <p className={style.stafftext}>Administrative Assistant</p>
               </div>
             </div>
           </div>

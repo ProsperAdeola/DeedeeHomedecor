@@ -37,9 +37,9 @@ const Service = (name) => {
           <div className={style.p}>
             <h2 className={style.pt}>Painting</h2>
             <p className={style.pp}>
-              Painting designs create te right ambiance and positive environment
+              Painting designs create the right ambiance and positive environment
               in your house and set the mood for spennding family time. You can
-              chose your panting from bright to colourful to cool. there ia s
+              chose your panting from bright to colourful to cool. There is a
               colour palette of colors you can always choose from and we can
               also guide you through.<br></br>As our client you can opt for
               customised textures and wall painting ideas by your home type.
@@ -53,13 +53,13 @@ const Service = (name) => {
             </div>
           </div>
           <div>
-            <img className={style.pi} src="./images/p1.jpg" alt="" />
+            <img className={style.pi} src="./images/p1.wepb" alt="" />
           </div>
         </div>
 
         <div className={style.paint}>
           <div>
-            <img className={style.pi} src="./images/curtain.jpg" alt="" />
+            <img className={style.pi} src="./images/curtain.wepb" alt="" />
           </div>
           <div className={style.p}>
             <h2 className={style.pt}>Curtains</h2>
@@ -95,7 +95,7 @@ const Service = (name) => {
             </div>
           </div>
           <div>
-            <img className={style.pi} src="./images/4.jpg" alt="" />
+            <img className={style.pi} src="./images/4.wepb" alt="" />
           </div>
         </div>
       </div>
