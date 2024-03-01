@@ -33,7 +33,7 @@ const Service = (name) => {
       <div className={style.so}>
         <h1 className={style.offer}>What we offer</h1>
 
-        <div className={style.paint}>
+        {/* <div className={style.paint}>
           <div className={style.p}>
             <h2 className={style.pt}>Painting</h2>
             <p className={style.pp}>
@@ -53,13 +53,13 @@ const Service = (name) => {
             </div>
           </div>
           <div>
-            <img className={style.pi} src="./images/p1.jpg" alt="" />
+            <img className={style.pi} src="./images/p1.webp" alt="" />
           </div>
         </div>
 
         <div className={style.paint}>
           <div>
-            <img className={style.pi} src="/images/curtain.jpg" alt="" />
+            <img className={style.pi} src="/images/curtain.webp" alt="" />
           </div>
           <div className={style.p}>
             <h2 className={style.pt}>Curtains</h2>
@@ -95,9 +95,23 @@ const Service = (name) => {
             </div>
           </div>
           <div>
-            <img className={style.pi} src="./images/4.jpg" alt="" />
+            <img className={style.pi} src="./images/4.webp" alt="" />
           </div>
-        </div>
+        </div> */}
+
+        <Card style={{ width: '18rem' }}>
+         <Card.Img variant="top" src="holder.js/100px180" />
+          <Card.Body>
+        <Card.Title>Card Title</Card.Title>
+        <Card.Text>
+          Some quick example text to build on the card title and make up the
+          bulk of the card's content.
+        </Card.Text>
+        <Button variant="primary">Go somewhere</Button>
+      </Card.Body>
+        </Card>
+
+
       </div>
 
       <Footer />

@@ -34,49 +34,46 @@ const Home = () => {
         <h1 className={style.discount}>Our past projects</h1>
         <div className={style.container}>
           <div className={style.li}>
-            {/* <div className={style.card}>
-              <img className={style.image} src="./images/1.jpg" alt="" />
-              <h1 className={style.litext}>Bedroom</h1>
-            </div> */}
             <div>
               <img className={style.image} src="./images/1.webp" alt="" />
+              <h1 className={style.litext}>Bedroom</h1>
             </div>
             <div className={style.card}>
-              <img className={style.image} src="./images/2.jpg" alt="" />
+              <img className={style.image} src="./images/2.webp" alt="" />
               <h1 className={style.litext}>Waiting Area</h1>
             </div>
             <div className={style.card}>
-              <img className={style.image} src="./images/3.jpg" alt="" />
+              <img className={style.image} src="./images/3.webp" alt="" />
               <h1 className={style.litext}>Living Room</h1>
             </div>
           </div>
 
           <div className={style.li}>
             <div className={style.card}>
-              <img className={style.image} src="./images/4.jpg" alt="" />
+              <img className={style.image} src="./images/4.webp" alt="" />
               <h1 className={style.litext}>Kitchen</h1>
             </div>
             <div className={style.card}>
-              <img className={style.image} src="./images/5.jpg" alt="" />
+              <img className={style.image} src="./images/5.webp" alt="" />
               <h1 className={style.litext}>Kitchen</h1>
             </div>
             <div className={style.card}>
-              <img className={style.image} src="./images/6.jpg" alt="" />
+              <img className={style.image} src="./images/6.webp" alt="" />
               <h1 className={style.litext}>Breakfast Table</h1>
             </div>
           </div>
 
           <div className={style.li}>
             <div className={style.card}>
-              <img className={style.image} src="./images/7.jpg" alt="" />
+              <img className={style.image} src="./images/7.webp" alt="" />
               <h1 className={style.litext}>Sitting Room</h1>
             </div>
             <div className={style.card}>
-              <img className={style.image} src="./images/8.jpg" alt="" />
+              <img className={style.image} src="./images/8.webp" alt="" />
               <h1 className={style.litext}>Dinning Room</h1>
             </div>
             <div className={style.card}>
-              <img className={style.image} src="./images/contact.jpg" alt="" />
+              <img className={style.image} src="./images/contact.webp" alt="" />
               <h1 className={style.litext}>Sitting Area</h1>
             </div>
           </div>
