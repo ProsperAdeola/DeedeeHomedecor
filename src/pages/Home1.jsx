@@ -34,9 +34,12 @@ const Home = () => {
         <h1 className={style.discount}>Our past projects</h1>
         <div className={style.container}>
           <div className={style.li}>
-            <div className={style.card}>
+            {/* <div className={style.card}>
               <img className={style.image} src="./images/1.jpg" alt="" />
               <h1 className={style.litext}>Bedroom</h1>
+            </div> */}
+            <div>
+              <img className={style.image} src="./images/1.webp" alt="" />
             </div>
             <div className={style.card}>
               <img className={style.image} src="./images/2.jpg" alt="" />
